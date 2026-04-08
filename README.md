@@ -42,7 +42,7 @@ and that answer is most of what the repo is about.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Amount per serving
 
-  Commits ............................ 126,000
+  Commits ............................. 99,999
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                                   % Daily Value *
 
